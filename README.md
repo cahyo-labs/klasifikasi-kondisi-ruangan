@@ -1,7 +1,4 @@
-# klasifikasi-kondisi-ruangan
-Proyek UTS Machine Learning: klasifikasi kondisi ruangan berdasarkan suhu, kelembapan, dan intensitas cahaya menggunakan Decision Tree.
-
-# Klasifikasi Kondisi Ruangan Menggunakan Decision Tree
+# Klasifikasi-Kondisi-Ruangan-Mennggunakan-Decision-Tree
 
 ## Deskripsi
 Proyek ini merupakan implementasi Machine Learning untuk mengklasifikasikan kondisi ruangan berdasarkan suhu, kelembapan relatif, dan intensitas cahaya.
