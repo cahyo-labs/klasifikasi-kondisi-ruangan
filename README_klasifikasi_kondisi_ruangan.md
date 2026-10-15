@@ -4,7 +4,7 @@
 Proyek ini membangun pipeline Machine Learning untuk mengklasifikasikan kondisi ruangan berdasarkan suhu, kelembapan relatif, dan intensitas cahaya. Model baseline yang digunakan adalah Decision Tree.
 
 ## Dataset
-File `dataset_simulasi_kondisi_ruangan.csv` berisi 600 baris dataset dengan kolom:
+File `dataset_kondisi_ruangan.csv` berisi 600 baris dataset dengan kolom:
 - `id_data`: ID baris
 - `suhu`: suhu dalam °C
 - `kelembapan`: kelembapan relatif dalam %RH
