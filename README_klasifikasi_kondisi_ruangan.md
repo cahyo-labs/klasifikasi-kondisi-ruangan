@@ -65,7 +65,7 @@ Dataset ini adalah data simulasi dan label dibuat berdasarkan aturan ambang di a
 ## Struktur repository yang disarankan
 ```text
 klasifikasi-kondisi-ruangan/
-├── dataset_simulasi_kondisi_ruangan.csv
+├── dataset_kondisi_ruangan.csv
 ├── klasifikasi_kondisi_ruangan.py
 ├── README.md
 └── model_kondisi_ruangan.joblib  # dibuat setelah program dijalankan
